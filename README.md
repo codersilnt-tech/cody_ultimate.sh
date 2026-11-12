@@ -1,2 +1,2 @@
-# cody_ultimate.sh
+# cody-ultimate.sh
 Osint pishing 
